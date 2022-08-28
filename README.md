@@ -1,5 +1,3 @@
-<h1 align="left">• Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30">, I'm <a href="https://github.com/skadakia01/skadakia01"></a> Shlok Kadakia!</h1>
-
 <h1 align="center">Hi 👋, I'm Shlok Kadakia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
