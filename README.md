@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skadakia01&label=Profile%20views&color=0e75b6&style=flat" alt="skadakia01" /> </p>
 
-- 🔭 I’m currently working on **Drone Swarm Project**
+- 🔭 I’m currently working on **Strandaid Drone Project**
 
 - 🌱 I’m currently learning **React JS, Kubernetes, Cloud Architecture**
 
-- 👯 I’m looking to collaborate on **Backend Development Projects**
+- 👯 I’m looking to collaborate on **Full Stack Development Projects**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java, PHP**
+- 💬 Ask me about **HTML, CSS, JavaScript, React Js, Cloud Fundamentals**
 
-- 📫 How to reach me **skisadev@gmail.com**
+- 📫 How to reach me **shlokkadakia98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
