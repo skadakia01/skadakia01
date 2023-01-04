@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Strandaid Drone Project**
 
-- 🌱 I’m currently learning **React JS, Kubernetes, Cloud Architecture**
+- 🌱 I’m currently learning **Web3, Kubernetes, Cloud Architecture**
 
 - 👯 I’m looking to collaborate on **Full Stack Development Projects**
 
